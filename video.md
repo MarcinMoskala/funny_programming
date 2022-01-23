@@ -22,7 +22,7 @@ youtube y8OnoxKotPQ
 
 ### Music video
 
-A big part of our culture is music parodies. The oldest one I know is *Write in C*, that is an absolute classic. You can also see an amazing *Write in Go* presented years later by a whole choir on a ScaleAbility conference. 
+A big part of our culture is music parodies. The oldest one I know is *Write in C*, that is an absolute classic. You can also see an amazing *Write in Go* presented years later by a whole choir on a ScaleAbility conference.
 
 youtube XHosLhPEN3k
 
@@ -32,7 +32,7 @@ youtube LJvEIjRBSDA
 
 #### Write in Go
 
-Here are a few more music parodies. 
+Here are a few more music parodies.
 
 youtube Eq3CuMDXaPs
 
@@ -42,11 +42,11 @@ youtube 1JZnj4eNHXE
 
 #### LadyJava Music Video
 
-LadyJava was made for a conference JavaZone, that started another tradition of funny videos. 
+LadyJava was made for a conference JavaZone, that started another tradition of funny videos.
 
 ### Movie trailer parodies
 
-A popular conference, JavaZone, created a bunch of funny movie trailer parodies. 
+A popular conference, JavaZone, created a bunch of funny movie trailer parodies.
 
 youtube RnqAXuLZlaE
 
@@ -70,7 +70,7 @@ youtube 5U1_KW6ww7Y
 
 ## TikTok and other short videos
 
-On the end, it is worth mentioning, that some developers create funny videos in a TikTok/Instagram style. As an example, I will present [cassidoo (Cassidy Williams)](https://twitter.com/cassidoo) and [tired_actor (Alison Burke)](https://twitter.com/TiredActor). Both create great funny videos. 
+On the end, it is worth mentioning, that some developers create funny videos in a TikTok/Instagram style. As an example, I will present [cassidoo (Cassidy Williams)](https://twitter.com/cassidoo) and [tired_actor (Alison Burke)](https://twitter.com/TiredActor). Both create great funny videos.
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cassidoo/video/6948141034488614150" data-video-id="6948141034488614150" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@cassidoo" href="https://www.tiktok.com/@cassidoo">@cassidoo</a> There are no good coders (inspired by @marycchong <a target="_blank" title="♬ original sound - Cassidy Williams" href="https://www.tiktok.com/music/original-sound-6948140956289862405">♬ original sound - Cassidy Williams</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
@@ -78,7 +78,7 @@ On the end, it is worth mentioning, that some developers create funny videos in 
 
 ### Popular culture
 
-There are videos, that are not directed strictly to programmers, but are about nerds or nerd culture. I think it is worth mentioning a few pearls. 
+There are videos, that are not directed strictly to programmers, but are about nerds or nerd culture. I think it is worth mentioning a few pearls.
 
 youtube 2Tvy_Pbe5NA
 
@@ -98,14 +98,14 @@ In Poland, we have our specific subculture of programming humour. We have some p
 
 youtube cc11MqPqBxc
 
-#### Internety robie
+#### Internety robie (I am making internets)
 
 youtube YdWo5zbbGnY
 
-#### MAM TEN KOD
+#### MAM TEN KOD (I have that code)
 
 youtube 1X_jTyqDqsI
 
-#### Rekrutacja grafika komputerowego
+#### Rekrutacja grafika komputerowego (Graphic designer recreation)
 
 I hope you had some fun. Have I forgotten about something? Let me know in a comment below :)
