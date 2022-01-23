@@ -1,4 +1,4 @@
-We, developers, created our own subculture. No wonder, there are over [24 millions of us worldwide](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/). We share similar problems and frustrations. Among us, there are many musicians (I am sometimes surprised how many), artists and much more. No wonder our community produces some funny video or a comic from time to time.
+We, developers, created our own subculture. No wonder, there are over [24 millions of us worldwide](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/). We share similar problems and frustrations. Among us, there are many musicians (I am sometimes surprised how many) and other kinds of artists. No wonder our community produces some funny video or a comic from time to time.
 
 I like to reference them during programming discussions. I am then often surprised, when some of my colleagues do not know them. That is why I decided to collect my favourite funny arts of programming community. In this article, I will show my favorite videos.
 
