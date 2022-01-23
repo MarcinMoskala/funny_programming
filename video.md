@@ -66,7 +66,7 @@ youtube 5U1_KW6ww7Y
 
 ## TikTok and other short videos
 
-On the end, it is worth mentioning, that some developers create funny videos in a TikTok/Instagram style. As an example, I will present [cassidoo (Cassidy Williams)](https://twitter.com/cassidoo) and [tired_actor (Alison Burke)](https://twitter.com/TiredActor). Both create great funny videos.
+On the end, it is worth mentioning, that some developers create funny videos in a TikTok/Instagram style. As an example, I will present [cassidoo (Cassidy Williams)](https://twitter.com/cassidoo) and [tired_actor (Alison Burke)](https://twitter.com/TiredActor). Both create great videos.
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cassidoo/video/6948141034488614150" data-video-id="6948141034488614150" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@cassidoo" href="https://www.tiktok.com/@cassidoo">@cassidoo</a> There are no good coders (inspired by @marycchong <a target="_blank" title="♬ original sound - Cassidy Williams" href="https://www.tiktok.com/music/original-sound-6948140956289862405">♬ original sound - Cassidy Williams</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
