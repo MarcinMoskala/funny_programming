@@ -60,10 +60,6 @@ youtube 3vI_7os2V_o
 
 #### JavaZone 2014: Game of Codes
 
-youtube HXvm76e2X1Q
-
-#### JavaZone 2012: The Java Heist
-
 youtube 5U1_KW6ww7Y
 
 #### JavaZone X : The Streaming
