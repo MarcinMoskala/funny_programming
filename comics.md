@@ -1,25 +1,22 @@
-We developers, created our own subculture. No wonder, there are over [24 millions of active developers worldwide](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/). We share similar problems and similar frustrations. Among us, there are many musicians (I am sometimes suprised how many), artists and much more. So no wonder our community produces some funny video or a comic from time to time.
-During programming discussions, I like to throw some jokes
+We, developers, created our own subculture. No wonder, there are over [24 millions of us worldwide](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/). We share similar problems and frustrations. Among us, there are many musicians (I am sometimes surprised how many), artists and much more. No wonder our community produces some funny video or a comic from time to time.
 
-I will start with my personal favorite.
+I like to reference them during programming discussions. I am then often surprised, when some of my colleagues do not know them. That is why I decided to collect my favourite funny arts of programming community. In this article, I will show my favorite videos.
 
 #### Wat - Destroy All Software Lightning Talk
 
-https://www.youtube.com/watch?v=3se2-thqf-A
+Let's start with my personal favorite. **Wat** was initially presented as an lightning talk, but it was a great hit, so the formula was later repeated for many languages and other crazy examples. Here is the original one, you can search YouTube for more ;)
 
 youtube 3se2-thqf-A
+
+### YouTube Channels
+
+There are a bunch of YouTube channels making funny videos for developers. Some of them do that to promote a company. In other case, it is just a group of developers having fun. Here I present a viral video *The Mysterious Life of Developers*, and an example video from the channel KRAZAM. 
 
 #### Kantega | The Mysterious Life of Developers
 
 https://www.youtube.com/watch?v=ocwnns57cYQ
 
 youtube ocwnns57cYQ
-
-### Devs watching QA test the product
-
-https://www.youtube.com/watch?v=baY3SaIhfl0
-
-youtube baY3SaIhfl0
 
 #### Microservices
 
@@ -99,6 +96,18 @@ youtube HXvm76e2X1Q
 https://www.youtube.com/watch?v=5U1_KW6ww7Y&t=83s
 
 youtube 5U1_KW6ww7Y
+
+## TikTok and other short videos
+
+### cassidoo
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cassidoo/video/6948141034488614150" data-video-id="6948141034488614150" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@cassidoo" href="https://www.tiktok.com/@cassidoo">@cassidoo</a> There are no good coders (inspired by @marycchong <a target="_blank" title="♬ original sound - Cassidy Williams" href="https://www.tiktok.com/music/original-sound-6948140956289862405">♬ original sound - Cassidy Williams</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+### Devs watching QA test the product
+
+https://www.youtube.com/watch?v=baY3SaIhfl0
+
+youtube baY3SaIhfl0
 
 ### Animations
 
