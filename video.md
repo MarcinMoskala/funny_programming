@@ -2,11 +2,9 @@ We, developers, created our own subculture. No wonder, there are over [24 millio
 
 I like to reference them during programming discussions. I am then often surprised, when some of my colleagues do not know them. That is why I decided to collect my favourite funny arts of programming community. In this article, I will show my favorite videos.
 
-Let's start with my personal favorite. **Wat** was initially presented as an lightning talk, but it was a great hit, so the formula was later repeated for many languages and other crazy examples. Here is the original one, you can search YouTube for more ;)
+Let's start with my personal favorite. **Wat** was initially presented as an lightning talk, but it was a great hit, so the formula was later repeated for many languages and other crazy examples. Here is the link to the original one, you can search YouTube for more ;)
 
-youtube 3se2-thqf-A
-
-#### Wat - Destroy All Software Lightning Talk
+[Wat - Destroy All Software Lightning Talk](https://www.destroyallsoftware.com/talks/wat)
 
 ### YouTube Channels
 
