@@ -9,7 +9,7 @@ A popular webcomic, created by active developers, is [MonkeyUser](https://www.mo
 [![](MonkeyUser_1.png)](https://www.monkeyuser.com/2021/pending-approval/)
 [![](MonkeyUser_2.png)](https://www.monkeyuser.com/2022/anticipate/)
 [![](MonkeyUser_3.png)](https://www.monkeyuser.com/2022/idea/)
-[![](MonkeyUser_4.png)](https://www.monkeyuser.com/2022/fov/)
+[![](MonkeyUser_4.jpeg)](https://www.monkeyuser.com/2022/fov/)
 [![](MonkeyUser_5.png)](https://www.monkeyuser.com/2021/reusable-components/)
 
 You can follow MonkeyUser on [Twitter](https://twitter.com/ismonkeyuser/), [Instagram](https://www.instagram.com/themonkeyuser/) or [Facebook](https://www.facebook.com/ismonkeyuser). 
@@ -23,7 +23,6 @@ xkcd is a very popular webcomic. It's creator, Randall Munroe, worked on robots 
 ![](xkcd_3.png)
 ![](xkcd_4.png)
 ![](xkcd_5.png)
-![](xkcd_6.png)
 
 You can follow xkcd on [Twitter](https://twitter.com/xkcd/), [Instagram](https://www.instagram.com/xkcd/) or [Facebook](https://www.facebook.com/TheXKCD).
 
@@ -66,7 +65,7 @@ You can follow PHD on [Twitter](https://twitter.com/phdcomics/), [Instagram](htt
 
 [Geek and Poke](https://geek-and-poke.com/) is another popular webcomic dedicated for developers. 
 
-[![](geek-and-poke)](https://geek-and-poke.com/)
+[![](geek-and-poke.jpeg)](https://geek-and-poke.com/)
 
 ## Other popular comics
 
@@ -77,5 +76,5 @@ There are much more comics for programmers. I cannot name all creators, and not 
 ![](comic_3.jpeg)
 ![](comic_4.jpeg)
 ![](comic_5.jpeg)
-![](comic_6.jpeg)
+![](comic_6.png)
 ![](comic_7.jpeg)
